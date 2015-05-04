@@ -1,0 +1,14 @@
+.dtree {
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    white-space: nowrap;
+    line-height: normal;
+}
+
+.nodeUrl, .nodeFdUrl, .nodeSel, .node, .navSel {
+    margin-left: 4px;
+}
+
+.nodeUrl, .nodeFdUrl, .nodeSel, .node, .navSel {
+    padding-left: 2px;
+}
